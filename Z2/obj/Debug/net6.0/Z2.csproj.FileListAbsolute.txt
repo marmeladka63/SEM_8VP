@@ -1,0 +1,15 @@
+C:\Users\Valentina\Documents\Учеба Разработчик\4_Введение в программирование Семинары\SEM8_VP\Z2\bin\Debug\net6.0\Z2.exe
+C:\Users\Valentina\Documents\Учеба Разработчик\4_Введение в программирование Семинары\SEM8_VP\Z2\bin\Debug\net6.0\Z2.deps.json
+C:\Users\Valentina\Documents\Учеба Разработчик\4_Введение в программирование Семинары\SEM8_VP\Z2\bin\Debug\net6.0\Z2.runtimeconfig.json
+C:\Users\Valentina\Documents\Учеба Разработчик\4_Введение в программирование Семинары\SEM8_VP\Z2\bin\Debug\net6.0\Z2.dll
+C:\Users\Valentina\Documents\Учеба Разработчик\4_Введение в программирование Семинары\SEM8_VP\Z2\bin\Debug\net6.0\Z2.pdb
+C:\Users\Valentina\Documents\Учеба Разработчик\4_Введение в программирование Семинары\SEM8_VP\Z2\obj\Debug\net6.0\Z2.csproj.AssemblyReference.cache
+C:\Users\Valentina\Documents\Учеба Разработчик\4_Введение в программирование Семинары\SEM8_VP\Z2\obj\Debug\net6.0\Z2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentina\Documents\Учеба Разработчик\4_Введение в программирование Семинары\SEM8_VP\Z2\obj\Debug\net6.0\Z2.AssemblyInfoInputs.cache
+C:\Users\Valentina\Documents\Учеба Разработчик\4_Введение в программирование Семинары\SEM8_VP\Z2\obj\Debug\net6.0\Z2.AssemblyInfo.cs
+C:\Users\Valentina\Documents\Учеба Разработчик\4_Введение в программирование Семинары\SEM8_VP\Z2\obj\Debug\net6.0\Z2.csproj.CoreCompileInputs.cache
+C:\Users\Valentina\Documents\Учеба Разработчик\4_Введение в программирование Семинары\SEM8_VP\Z2\obj\Debug\net6.0\Z2.dll
+C:\Users\Valentina\Documents\Учеба Разработчик\4_Введение в программирование Семинары\SEM8_VP\Z2\obj\Debug\net6.0\refint\Z2.dll
+C:\Users\Valentina\Documents\Учеба Разработчик\4_Введение в программирование Семинары\SEM8_VP\Z2\obj\Debug\net6.0\Z2.pdb
+C:\Users\Valentina\Documents\Учеба Разработчик\4_Введение в программирование Семинары\SEM8_VP\Z2\obj\Debug\net6.0\Z2.genruntimeconfig.cache
+C:\Users\Valentina\Documents\Учеба Разработчик\4_Введение в программирование Семинары\SEM8_VP\Z2\obj\Debug\net6.0\ref\Z2.dll
