@@ -1,0 +1,15 @@
+C:\Users\Valentina\Documents\Учеба Разработчик\4_Введение в программирование Семинары\SEM8_VP\DZ2\obj\Debug\net6.0\DZ2.csproj.AssemblyReference.cache
+C:\Users\Valentina\Documents\Учеба Разработчик\4_Введение в программирование Семинары\SEM8_VP\DZ2\obj\Debug\net6.0\DZ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentina\Documents\Учеба Разработчик\4_Введение в программирование Семинары\SEM8_VP\DZ2\obj\Debug\net6.0\DZ2.AssemblyInfoInputs.cache
+C:\Users\Valentina\Documents\Учеба Разработчик\4_Введение в программирование Семинары\SEM8_VP\DZ2\obj\Debug\net6.0\DZ2.AssemblyInfo.cs
+C:\Users\Valentina\Documents\Учеба Разработчик\4_Введение в программирование Семинары\SEM8_VP\DZ2\obj\Debug\net6.0\DZ2.csproj.CoreCompileInputs.cache
+C:\Users\Valentina\Documents\Учеба Разработчик\4_Введение в программирование Семинары\SEM8_VP\DZ2\bin\Debug\net6.0\DZ2.exe
+C:\Users\Valentina\Documents\Учеба Разработчик\4_Введение в программирование Семинары\SEM8_VP\DZ2\bin\Debug\net6.0\DZ2.deps.json
+C:\Users\Valentina\Documents\Учеба Разработчик\4_Введение в программирование Семинары\SEM8_VP\DZ2\bin\Debug\net6.0\DZ2.runtimeconfig.json
+C:\Users\Valentina\Documents\Учеба Разработчик\4_Введение в программирование Семинары\SEM8_VP\DZ2\bin\Debug\net6.0\DZ2.dll
+C:\Users\Valentina\Documents\Учеба Разработчик\4_Введение в программирование Семинары\SEM8_VP\DZ2\bin\Debug\net6.0\DZ2.pdb
+C:\Users\Valentina\Documents\Учеба Разработчик\4_Введение в программирование Семинары\SEM8_VP\DZ2\obj\Debug\net6.0\DZ2.dll
+C:\Users\Valentina\Documents\Учеба Разработчик\4_Введение в программирование Семинары\SEM8_VP\DZ2\obj\Debug\net6.0\refint\DZ2.dll
+C:\Users\Valentina\Documents\Учеба Разработчик\4_Введение в программирование Семинары\SEM8_VP\DZ2\obj\Debug\net6.0\DZ2.pdb
+C:\Users\Valentina\Documents\Учеба Разработчик\4_Введение в программирование Семинары\SEM8_VP\DZ2\obj\Debug\net6.0\DZ2.genruntimeconfig.cache
+C:\Users\Valentina\Documents\Учеба Разработчик\4_Введение в программирование Семинары\SEM8_VP\DZ2\obj\Debug\net6.0\ref\DZ2.dll
