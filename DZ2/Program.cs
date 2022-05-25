@@ -23,10 +23,10 @@ Console.Write("Введите количество столбцов m=");
 int m = int.Parse(Console.ReadLine());
 
 int[,] array = GetArray(n, m, 0, 10);
+
 PrintArray(array);
 Console.WriteLine();
-//SumArray(array);
-//PrintArray(array);
+
 
 
 int[,] GetArray(int n, int m, int min, int max)
@@ -71,22 +71,32 @@ void PrintArray(int[,] array)
     }
 }
 
-//void SumArray(int[,] array)
-    
-    //int[] sum = new int[array.GetLength(0)];
 
-    for (int i = 0; i < array.GetLength(0); i++)
-    { int sum=0;
-        for (int j = 0; j < array.GetLength(1); j++)
-        {
+int[] sum = new int[array.GetLength(0)];
 
-            sum+= array[i, j];
-            
+for (int i = 0; i < array.GetLength(0); i++)
 
-            Console.Write($"{sum}, ");
+    for (int j = 0; j < array.GetLength(1); j++)
+    {
 
-        }
+        sum[i] += array[i, j];
     }
+    //int[] result=new int[]{0};
+int min = sum[0];
+int index=0;
+for (int i = 0; i < array.GetLength(0); i++)
+{
+    if (min > sum[i])
+    min=sum[i];
+    index=i;
+    
+}
+Console.Write($"мин сумма строки = {min} ");
+Console.Write($"Номер строки с минимальной суммой = {index} ");
+
+
+
+
 
 
 
